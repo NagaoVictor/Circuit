@@ -1,0 +1,17 @@
+*.o
+*.out
+*.exe
+*.bin
+*.elf
+
+
+.vscode/
+.idea/
+.arduino/
+*.log
+/mnt/robot_buffer/*
+
+.DS_Store
+Thumbs.db
+*.swp
+.swp
